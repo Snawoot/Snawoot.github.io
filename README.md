@@ -4,7 +4,7 @@ I'm Vladislav Iarmak. I have some experience in following areas:
 
 - Software engineering
 - Systems architecture
-- Information Security
+- Information security
 - Managing and leading engineering teams
 
 ## My Contacts
