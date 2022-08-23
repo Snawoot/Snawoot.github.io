@@ -17,4 +17,4 @@ I'm Vladislav Iarmak. I have some experience in following areas:
 ## Some articles
 
 - [Poor Man's GTM](poor_mans_gtm.md)
-- My articles on Habr.com (mostly in Russian): https://habr.com/en/users/YourChief/posts/
+- [My articles on Habr.com (mostly in Russian)](https://habr.com/en/users/YourChief/posts/)
