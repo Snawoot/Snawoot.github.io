@@ -17,4 +17,5 @@ I'm Vladislav Iarmak. I have some experience in following areas:
 ## Some articles
 
 - [Poor Man's GTM](poor_mans_gtm.md)
+- [Stripping nthLink VPN encryption](stripping_nthlink_vpn_encryption/README.md)
 - [My articles on Habr.com (mostly in Russian)](https://habr.com/en/users/YourChief/posts/)
