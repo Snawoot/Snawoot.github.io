@@ -19,4 +19,5 @@ I'm Vladislav Iarmak. I have some experience in following areas:
 
 - [Poor Man's GTM](poor_mans_gtm.md)
 - [Stripping nthLink VPN encryption](stripping_nthlink_vpn_encryption/README.md)
+- [Spin up secure HTTPS proxy in less than 10 minutes](https://dev.to/iarmak/spin-up-secure-https-proxy-in-less-than-10-minutes-kf2)
 - [My articles on Habr.com (mostly in Russian)](https://habr.com/en/users/YourChief/posts/)
