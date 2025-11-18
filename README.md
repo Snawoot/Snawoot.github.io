@@ -23,6 +23,6 @@ My name is Vladyslav Iarmak. I'm experienced in following areas:
 
 - [PPP-over-HTTP/2: Having Fun with dumbproxy and pppd](ppp-over-http2/)
 - [Poor Man's GTM](poor_mans_gtm.md)
-- [Stripping nthLink VPN encryption](stripping_nthlink_vpn_encryption/)
-- [Spin up secure HTTPS proxy in less than 10 minutes](https://dev.to/iarmak/spin-up-secure-https-proxy-in-less-than-10-minutes-kf2)
-- [0day vulnerability in firmware for Xiaongmai-based DVRs, NVRs and IP cameras](https://habr.com/en/articles/486856/)
+- [Stripping nthLink VPN Encryption](stripping_nthlink_vpn_encryption/)
+- [Spin Up Secure HTTPS Proxy in Less Than 10 Minutes](https://dev.to/iarmak/spin-up-secure-https-proxy-in-less-than-10-minutes-kf2)
+- [0day Vulnerability In Firmware for Xiaongmai-based DVRs, NVRs and IP Cameras](https://habr.com/en/articles/486856/)
