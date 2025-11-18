@@ -239,7 +239,7 @@ connect /usr/local/bin/dialer.sh
 pty "openssl s_client -brief -verify_return_error -ign_eof vps.example.org:443"
 ```
 
-Instead of a single `pty` option, we use a connect script plus the openssl s_client utility (which is basically like `netcat` but for SSL/TLS).
+Instead of a single `pty` option, we use a connect script plus the `openssl s_client` utility (which is basically like `netcat` but for SSL/TLS).
 
 The connect script is:
 
