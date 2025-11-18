@@ -19,7 +19,7 @@ My name is Vladyslav Iarmak. I'm experienced in following areas:
 - Personal GitHub profile: [@Snawoot](https://github.com/Snawoot/)
 - SenseUnit software initiative: [SenseUnit](https://github.com/orgs/SenseUnit/repositories)
 
-## Some of my articles
+## Some of My Articles
 
 - [PPP-over-HTTP/2: Having Fun with dumbproxy and pppd](ppp-over-http2/)
 - [Poor Man's GTM](poor_mans_gtm.md)
