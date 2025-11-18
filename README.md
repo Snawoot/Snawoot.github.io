@@ -14,7 +14,7 @@ My name is Vladyslav Iarmak. I'm experienced in following areas:
 - LinkedIn: [https://www.linkedin.com/in/vladislav-yarmak/](https://www.linkedin.com/in/vladislav-yarmak/)
 - Twitter: [@snawoot](https://x.com/snawoot)
 
-## My projects
+## My OSS Projects
 
 - Personal GitHub profile: [@Snawoot](https://github.com/Snawoot/)
 - SenseUnit software initiative: [SenseUnit](https://github.com/orgs/SenseUnit/repositories)
