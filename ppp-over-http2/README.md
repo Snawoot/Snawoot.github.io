@@ -78,7 +78,7 @@ Masquerade traffic leaving through the default gateway interface:
 
 ```sh
 iptables -t nat -I POSTROUTING -o $(ip route show default | head -1 | grep -Po '(?<=dev\s)\s*\S+') -j MASQUERADE
-iptables -t mangle -A FORWARD -p tcp -m tcp --tcp-flags SYN,RST SYN -j TCPMSS --clamp-mss-to-pmtu
+iptables -t mangle -I FORWARD -p tcp -m tcp --tcp-flags SYN,RST SYN -j TCPMSS --clamp-mss-to-pmtu
 ```
 
 _Assuming you're using `iptables-persistent` package to manage iptables, you can these changes persistent across reboots like this:_
