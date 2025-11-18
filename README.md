@@ -1,4 +1,4 @@
-## About me
+## About Me
 
 My name is Vladyslav Iarmak. I'm experienced in following areas:
 
