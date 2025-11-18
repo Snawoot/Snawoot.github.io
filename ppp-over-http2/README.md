@@ -1,4 +1,4 @@
-# PPP-over-HTTP/2: having Fun with dumbproxy and pppd
+# PPP-over-HTTP/2: Having Fun with dumbproxy and pppd
 
 I run a few instances of [dumbproxy](https://github.com/SenseUnit/dumbproxy) (simple but quite versatile forward proxy server) for my personal needs. Not so long ago, I implemented a new operation mode for it, allowing dumbproxy to be run as a subprocess and communicate with the parent process via stdin/stdout instead of listening port. It is very useful to use it as a `ProxyCommand` for OpenSSH client. More importantly, it made me realize that I'm just one small feature away from achieving something I hadn't gotten around to doing: sending PPP tunnel through a HTTP proxy!
 
