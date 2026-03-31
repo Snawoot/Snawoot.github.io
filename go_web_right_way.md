@@ -6,12 +6,12 @@ Modern backend development is overly complex. In order to deploy even simplest G
 * Some router library. Again, there's good one in stdlib, but are URL paths really a concern of application level?
 * CI pipeline to automate build of your application.
 * Docker (or maybe even more complex container runtime in production environment).
-* Quite often - a separate "frontend" webserver to handle static files, rate limits, TLS termination and other infrastructure details.
+* Quite often - a separate "frontend" web server to handle static files, rate limits, TLS termination and other infrastructure details.
 * A lot of other nonsense to match modern vision of backend infrastructure.
 
 Go makes many things straightforward, yet there's still a lot of unnecessary complexity. Some companies even have dedicated "platform engineering" teams to deal with that.
 
-Webservices with dynamic content is a problem [solved long time ago](https://www.rfc-editor.org/rfc/rfc3875.html). Does it really need to be that complex? Is there easier way? I think, there is.
+Web services with dynamic content is a problem [solved long time ago](https://www.rfc-editor.org/rfc/rfc3875.html). Does it really need to be that complex? Is there easier way? I think, there is.
 
 ## The Right Way
 
