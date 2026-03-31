@@ -21,6 +21,7 @@ My name is Vladyslav Iarmak. I'm experienced in following areas:
 
 ## Some of My Articles
 
+- [Making Services With Go Right Way](go_web_right_way.md)
 - [PPP-over-HTTP/2: Having Fun with dumbproxy and pppd](ppp-over-http2/)
 - [Poor Man's GTM](poor_mans_gtm.md)
 - [Stripping nthLink VPN Encryption](stripping_nthlink_vpn_encryption/)
