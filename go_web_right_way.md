@@ -142,4 +142,4 @@ That's it! Now your web application is accessible on URL `http://SERVER_IP/cgi-b
 * TLS, static files and other details are now just a configuration options for Apache 2.
 * No unnecessary complexity, no docker, no compile stage to be concerned about, no integrated web server, no boilerplate code.
 * Dynamic resource allocation: your app is not even loaded into memory when not handling a request.
-* A lot of entertaiment value for April Fool's Day!
+* A lot of entertaiment value for April Fools' Day!
